@@ -13,7 +13,7 @@ require (
 	github.com/cespare/xxhash/v2 v2.1.1
 	github.com/chromedp/cdproto v0.0.0-20200424080200-0de008e41fa0
 	github.com/chromedp/chromedp v0.5.3
-	github.com/cortexproject/cortex v1.7.1-0.20210224085859-66d6fb5b0d42
+	github.com/cortexproject/cortex v1.7.1-0.20210316085356-3fedc1108a49
 	github.com/davecgh/go-spew v1.1.1
 	github.com/facette/natsort v0.0.0-20181210072756-2cd4dd1e2dcb
 	github.com/fatih/structtag v1.1.0
@@ -24,9 +24,9 @@ require (
 	github.com/gogo/protobuf v1.3.2
 	github.com/gogo/status v1.0.3
 	github.com/golang/groupcache v0.0.0-20200121045136-8c9f03a8e57e
-	github.com/golang/snappy v0.0.3-0.20201103224600-674baa8c7fc3
+	github.com/golang/snappy v0.0.3
 	github.com/googleapis/gax-go v2.0.2+incompatible
-	github.com/grpc-ecosystem/go-grpc-middleware v1.1.0
+	github.com/grpc-ecosystem/go-grpc-middleware v1.2.2
 	github.com/grpc-ecosystem/go-grpc-prometheus v1.2.0
 	github.com/hashicorp/golang-lru v0.5.4
 	github.com/jpillora/backoff v1.0.0
@@ -45,8 +45,8 @@ require (
 	github.com/opentracing/opentracing-go v1.2.0
 	github.com/pkg/errors v0.9.1
 	github.com/pmezard/go-difflib v1.0.0
-	github.com/prometheus/alertmanager v0.21.1-0.20201106142418-c39b78780054
-	github.com/prometheus/client_golang v1.9.0
+	github.com/prometheus/alertmanager v0.21.1-0.20210310093010-0f9cab6991e6
+	github.com/prometheus/client_golang v1.10.0
 	github.com/prometheus/client_model v0.2.0
 	github.com/prometheus/common v0.20.0
 	github.com/prometheus/prometheus v1.8.2-0.20210413124018-62afcabd01ea
